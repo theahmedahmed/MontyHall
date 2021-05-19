@@ -1,0 +1,7 @@
+C:\Users\ahmed\source\repos\MontyHall\MontyHall\bin\Debug\MontyHall.exe.config
+C:\Users\ahmed\source\repos\MontyHall\MontyHall\bin\Debug\MontyHall.exe
+C:\Users\ahmed\source\repos\MontyHall\MontyHall\bin\Debug\MontyHall.pdb
+C:\Users\ahmed\source\repos\MontyHall\MontyHall\obj\Debug\MontyHall.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\MontyHall\MontyHall\obj\Debug\MontyHall.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\MontyHall\MontyHall\obj\Debug\MontyHall.exe
+C:\Users\ahmed\source\repos\MontyHall\MontyHall\obj\Debug\MontyHall.pdb
